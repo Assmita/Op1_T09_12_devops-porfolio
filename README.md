@@ -13,8 +13,7 @@
 
 ## Sobre este portfolio
 
-Aprendí DevOps desde cero en Operaciones1 usando únicamente herramientas gratuitas.
-Cada TP tiene un entregable concreto en GitHub que demuestra lo aprendido en práctica.
+Este recorrido no solo nos permitió dominar herramientas esenciales, sino que nos brindó una visión estratégica del ciclo de vida completo de un sistema. Más allá de la técnica, lo fundamental fue comprender cómo cada componente se integra para conformar una solución robusta, escalable y automatizada.
 
 ---
 
